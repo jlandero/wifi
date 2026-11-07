@@ -1,0 +1,9 @@
+# Datos de tu red: MACs, IPs, nombres de dispositivos e historial
+devices_db.json
+devices_db.tmp
+
+# Fabricantes de tus dispositivos (dice qué marcas tienes en casa)
+vendor_cache.json
+
+__pycache__/
+.DS_Store
